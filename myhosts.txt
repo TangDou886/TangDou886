@@ -2,6 +2,39 @@
 ||freemeos.com^$important
 ||oo523.com^$important
 ||chajiechi.com^$important
-127.0.0.1 wejianzhan.com
-127.0.0.1 www.wejianzhan.com
-127.0.0.1 aisite.wejianzhan.com
+||sec.umeng.com.lan^$important
+||adashx.m.taobao.com.lan^$important
+||vortex.data.microsoft.com.lan^$important
+||dldir1v6.qq.com.lan^$important
+||https://ynuf.aliapp.org/savewb.json?^$important
+||ynuf.aliapp.org.lan^$important
+||https://ynuf.aliapp.org/savewb.json?.lan^$important
+||ygbd.viral-fountain.net^$important
+||push-api.freemeos.com.lan^$important
+||h-adashx.ut.taobao.com.lan^$important
+||sngmta.qq.com.lan^$important
+||pmmtk-a.pinduoduo.com^$important
+||pmmtk-a.pinduoduo.com.lan^$important
+||cmtw.pinduoduo.com.lan^$important
+||cmtw.pinduoduo.com^$important
+||pmmtk.pinduoduo.com^$important
+||th.pinduoduo.com^$important
+||th-a.pinduoduo.com^$important
+||arup.m.taobao.com^$important
+||arup.m.taobao.com.lan^$important
+||th.pinduoduo.com.lan^$important
+||px.ucweb.com.lan^$important
+||kgb-ifs.tanx.com.lan^$important
+||th-a.pinduoduo.com.lan^$important
+||gw5.push.mcp.weibo.cn.lan^$important
+||adashbc.ut.taobao.com.lan^$important
+||vs.biz.weibo.com.lan^$important
+||applog.uc.cn.lan^$important
+||adashx.ut.9game.cn.lan^$important
+||tv.adcashman.com.lan^$important
+||oth.eve.mdt.qq.com.lan^$important
+||adashbc.m.taobao.com.lan^$important
+||me.xdrig.com.lan^$important
+||av1.xdrig.com.lan^$important
+||msg.ptqy.gitv.tv.lan^$important
+||me.cpatrk.net.lan^$important
