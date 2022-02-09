@@ -38,3 +38,8 @@
 ||av1.xdrig.com.lan^$important
 ||msg.ptqy.gitv.tv.lan^$important
 ||me.cpatrk.net.lan^$important
+||errlog.umeng.com.lan^$important
+||www.msn.cn^$important
+||cn.bing.com.lan^$important
+||yiyouliao.com^$important
+||www.msn.cn.lan^$important
