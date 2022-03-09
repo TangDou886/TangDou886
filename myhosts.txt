@@ -62,3 +62,5 @@
 ||c.bing.com.lan^$important
 ||settings.crashlytics.com.lan^$important
 ||umdc.aliapp.org.lan^$important
+||srven.xbext.com^$important
+||update-market.tt286.com^$important
