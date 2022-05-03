@@ -68,3 +68,14 @@
 ||cn.bing.com.100mi^$important
 ||uop.umeng.com.100mi^$important
 ||openrcv.baidu.com.100mi^$important
+||beacons5.gvt3.com.100mi^$important
+||app-measurement.com.100mi^$important
+||beacons.gvt2.com.100mi^$important
+||firebase-settings.crashlytics.com.100mi^$important
+||tls.telemetry.swe.quicinc.com.100mi^$important
+||clientservices.googleapis.com.100mi^$important
+||monitor.music.qq.com.100mi^$important
+||ifs.tanx.com.100mi^$important
+||adashx.ut.cainiao.com.100mi^$important
+||iyes.youku.com.100mi^$important
+||abtest.alibaba.com.100mi^$important
