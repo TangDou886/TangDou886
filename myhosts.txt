@@ -79,3 +79,6 @@
 ||adashx.ut.cainiao.com.100mi^$important
 ||iyes.youku.com.100mi^$important
 ||abtest.alibaba.com.100mi^$important
+||ssl.google-analytics.com.100mi^$important
+||analytics.twitter.com.100mi^$important
+||android.bugly.qq.com.100mi^$important
