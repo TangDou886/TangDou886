@@ -85,3 +85,10 @@
 ||adstrategy.biz.weibo.com.100mi^$important
 ||sdkapp.mobile.sina.cn.100mi^$important
 ||wbapp.mobile.sina.cn.100mi^$important
+||sdkaction.biz.weibo.com^$important
+||sdkaction.biz.weibo.com.100mi^$important
+||sdkclick.mobile.sina.cn.100mi^$important
+||sdkclick.biz.weibo.com.100mi^$important
+||sdkclick.biz.weibo.com^$important
+||wgo.mmstat.com.100mi^$important
+||api.weibo.cn^$important
