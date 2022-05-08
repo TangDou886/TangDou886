@@ -82,3 +82,6 @@
 ||ssl.google-analytics.com.100mi^$important
 ||analytics.twitter.com.100mi^$important
 ||android.bugly.qq.com.100mi^$important
+||adstrategy.biz.weibo.com.100mi^$important
+||sdkapp.mobile.sina.cn.100mi^$important
+||wbapp.mobile.sina.cn.100mi^$important
