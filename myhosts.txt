@@ -92,3 +92,8 @@
 ||sdkclick.biz.weibo.com^$important
 ||wgo.mmstat.com.100mi^$important
 ||api.weibo.cn^$important
+||beacons4.gvt2.com.100mi^$important
+||beacons.gcp.gvt2.com.100mi^$important
+||beacons3.gvt2.com.100mi^$important
+||beacons2.gvt2.com.100mi^$important
+||beacons5.gvt2.com.100mi^$important
