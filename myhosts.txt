@@ -107,3 +107,4 @@
 ||dgstatic.jd.com.100mi^$important
 ||kepler.jd.com.100mi^$important
 ||aaid.umeng.com.100mi^$important
+||nrcapi.ssl2.duapps.com.100mi^$important
