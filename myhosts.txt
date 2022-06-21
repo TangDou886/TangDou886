@@ -108,3 +108,9 @@
 ||kepler.jd.com.100mi^$important
 ||aaid.umeng.com.100mi^$important
 ||nrcapi.ssl2.duapps.com.100mi^$important
+||hijack.baidu.com.100mi^$important
+||ap.cpatrk.net.100mi^$important
+||sofire.baidu.com.100mi^$important
+||tcbox.baidu.com.100mi^$important
+||audid-api.taobao.com.100mi^$important
+||api.weibo.cn.100mi^$important
