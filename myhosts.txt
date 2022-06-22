@@ -114,3 +114,12 @@
 ||tcbox.baidu.com.100mi^$important
 ||audid-api.taobao.com.100mi^$important
 ||api.weibo.cn.100mi^$important
+||dm.pstatp.com.100mi^$important
+||dm.bytedance.com.100mi^$important
+||dm.toutiao.com.100mi^$important
+||sdk.e.qq.com.100mi^$important
+||pangolin.snssdk.com.100mi^$important
+||tdid.m.qq.com.100mi^$important
+||log-api.pangolin-sdk-toutiao-b.com.100mi^$important
+||guid.tpns.tencent.com.100mi^$important
+||api-access.pangolin-sdk-toutiao-b.com.100mi^$important
