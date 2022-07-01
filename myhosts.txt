@@ -123,3 +123,9 @@
 ||log-api.pangolin-sdk-toutiao-b.com.100mi^$important
 ||guid.tpns.tencent.com.100mi^$important
 ||api-access.pangolin-sdk-toutiao-b.com.100mi^$important
+||adash.man.aliyuncs.com.100mi^$important
+||launches.appsflyer.com.100mi^$important
+||stat.doglobal.net.100mi^$important
+||p.s.360.cn.100mi^$important
+||cdn-settings.appsflyersdk.com.100mi^$important
+||norma-external-collect.meizu.com.100mi^$important
