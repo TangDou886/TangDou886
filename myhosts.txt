@@ -129,3 +129,8 @@
 ||p.s.360.cn.100mi^$important
 ||cdn-settings.appsflyersdk.com.100mi^$important
 ||norma-external-collect.meizu.com.100mi^$important
+||www.google-analytics.com.100mi^$important
+||www.googletagmanager.com.100mi^$important
+||e2cs29.gcp.gvt2.com.100mi^$important
+||a.adtng.com.100mi^$important
+||plbslog.umeng.com.100mi^$important
