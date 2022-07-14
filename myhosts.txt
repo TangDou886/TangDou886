@@ -165,3 +165,9 @@
 ||log.umsns.com.100mi^$important
 ||zz.bdstatic.com.100mi^$important
 ||e2c21.gcp.gvt2.com.100mi^$important
+||crab.baidu.com.100mi^$important
+||qapm.baidu.com.100mi^$important
+||www.yhd.com.100mi^$important
+||open.e.kuaishou.com.100mi^$important
+||wxsnsdythumb.wxs.qq.com.100mi^$important
+||www.gome.com.cn.100mi^$important
