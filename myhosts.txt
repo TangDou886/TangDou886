@@ -175,3 +175,15 @@
 ||vod.hmsk-txcdn.17ugo.com^$important
 ||17ugo.com^$important
 ||www.17ugo.com^$important
+||g.cn.miaozhen.com.100mi^$important
+||m.ugoshop.com^$important
+||adanxing.com^$important
+||adanxing.com.100mi^$important
+||statics.adanxing.com^$important
+||10084.x.adanxing.com^$important
+||10084.x.adanxing.com.100mi^$important
+||cig.x.adanxing.com^$important
+||cig.x.adanxing.com.100mi^$important
+||amj.amegroups.com^$important
+||www.drrxmc.com^$important
+||che.bio.zju.edu.cn^$important
