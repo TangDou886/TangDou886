@@ -171,3 +171,7 @@
 ||open.e.kuaishou.com.100mi^$important
 ||wxsnsdythumb.wxs.qq.com.100mi^$important
 ||www.gome.com.cn.100mi^$important
+||vod.hmsk-txcdn.17ugo.com.100mi^$important
+||vod.hmsk-txcdn.17ugo.com^$important
+||17ugo.com^$important
+||www.17ugo.com^$important
