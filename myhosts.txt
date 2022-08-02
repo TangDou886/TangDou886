@@ -187,3 +187,16 @@
 ||amj.amegroups.com^$important
 ||www.drrxmc.com^$important
 ||che.bio.zju.edu.cn^$important
+||ask.log.kuyun.com.100mi^$important
+||kidcount.kuyun.com^$important
+||www.kuyun.com^$important
+||pro.eye.lab.kuyun.com^$important
+||eye.kuyun.com^$important
+||dmp.kuyun.com^$important
+||kuyun.com^$important
+||socket.kuyun.com^$important
+||report.log.kuyun.com^$important
+||tvsdk.kuyun.com^$important
+||socket.kuyun.com.100mi^$important
+||report.log.kuyun.com.100mi^$important
+||config.reconstruct.kuyun.com^$important
