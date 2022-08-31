@@ -6,9 +6,9 @@
 ||adashx.m.taobao.com.100mi^$important
 ||vortex.data.microsoft.com.100mi^$important
 ||dldir1v6.qq.com.100mi^$important
-||https://ynuf.aliapp.org/savewb.json?^$important
+||ynuf.aliapp.org/savewb.json?^$important
 ||ynuf.aliapp.org.100mi^$important
-||https://ynuf.aliapp.org/savewb.json?.100mi^$important
+||ynuf.aliapp.org/savewb.json?.100mi^$important
 ||ygbd.viral-fountain.net^$important
 ||push-api.freemeos.com.100mi^$important
 ||h-adashx.ut.taobao.com.100mi^$important
@@ -217,3 +217,12 @@
 ||c-hzgt2.getui.com.100mi^$important
 ||sdk-open-phone.getui.com.100mi^$important
 ||sdk.open.talk.getui.com.100mi^$important
+||bdloc.qchannel03.cn.100mi^$important
+||fd.qchannel03.cn.100mi^$important
+||worldwide.sogou.com.100mi^$important
+||log.qchannel03.cn.100mi^$important
+||adashxgc.ut.taobao.com.100mi^$important
+||med-fe.cdn.bcebos.com.100mi^$important
+||fp-it.fengkongcloud.com.100mi^$important
+||browserkernel.baidu.com.100mi^$important
+||api4.tuisong.baidu.com.100mi^$important
