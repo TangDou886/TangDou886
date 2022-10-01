@@ -229,7 +229,6 @@
 ||qzs.gdtimg.com.100mi^$important
 ||utoken.umeng.com.100mi^$important
 127.0.0.1 www.internetdownloadmanager.com
-@@||raw.githubusercontent.com^$important
 ||log-api.pangolin-sdk-toutiao.com.100mi^$important
 ||extlog.snssdk.com.100mi^$important
 ||smartop-sdkapi.jiguang.cn.100mi^$important
@@ -384,3 +383,21 @@
 @@||drive.quark.cn^$important
 @@||pan-api.quark.cn^$important
 ||sm.cn^$important
+||configure-tcp-android.rayjump.com.100mi^$important
+||analytics-tcp.mintegral.net.100mi^$important
+||net.rayjump.com.100mi^$important
+||us01-cdn.rayjump.com.100mi^$important
+||api.indicative.com.100mi^$important
+||www.bing.com^$important
+||sdk.open.phone.igexin.com.100mi^$important
+||bjuser.jpush.cn.100mi^$important
+||ce3e75d5.jpush.cn.100mi^$important
+||config.jpush.cn.100mi^$important
+||ade.googlesyndication.com.100mi^$important
+||tpc.googlesyndication.com.100mi^$important
+||mcs.snssdk.com.100mi^$important
+||d.applovin.com.100mi^$important
+||ms.applovin.com.100mi^$important
+||data.flurry.com.100mi^$important
+||rt.applovin.com.100mi^$important
+||www.bing.com.100mi^$important
