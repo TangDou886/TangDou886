@@ -444,3 +444,11 @@
 ||cdn.bootcdn.net.100mi^$important
 ||mydisplay.ctfile.com.100mi^$important
 ||doubleclick.ctfile.com.100mi^$important
+||elbn.sodium-speech.net.100mi^$important
+||cmfh.sodium-speech.net.100mi^$important
+||hkld.actions-constant.net.100mi^$important
+||events.jianshu.io.100mi^$important
+||collect-v6.51.la.100mi^$important
+||odin.re.taobao.com.100mi^$important
+||app.adjust.world.100mi^$important
+||air.freemeos.com.100mi^$important
