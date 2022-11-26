@@ -452,3 +452,10 @@
 ||odin.re.taobao.com.100mi^$important
 ||app.adjust.world.100mi^$important
 ||air.freemeos.com.100mi^$important
+||fclog.baidu.com.100mi^$important
+||aisite.wejianzhan.com.100mi^$important
+||app.adjust.net.in.100mi^$important
+||qianhu.wejianzhan.com.100mi^$important
+||v2.reachmax.cn.100mi^$important
+||h5-operation-log-p.cn-beijing.log.aliyuncs.com.100mi^$important
+||a.realsrv.com.100mi^$important
