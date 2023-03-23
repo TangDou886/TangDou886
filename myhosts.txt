@@ -386,7 +386,6 @@
 ||net.rayjump.com.100mi^$important
 ||us01-cdn.rayjump.com.100mi^$important
 ||api.indicative.com.100mi^$important
-||www.bing.com^$important
 ||sdk.open.phone.igexin.com.100mi^$important
 ||bjuser.jpush.cn.100mi^$important
 ||ce3e75d5.jpush.cn.100mi^$important
@@ -398,7 +397,6 @@
 ||ms.applovin.com.100mi^$important
 ||data.flurry.com.100mi^$important
 ||rt.applovin.com.100mi^$important
-||www.bing.com.100mi^$important
 ||browser.events.data.microsoft.com.100mi^$important
 ||tr.jianshu.com.100mi^$important
 ||sensors.ibreader.com.100mi^$important
