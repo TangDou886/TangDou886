@@ -1,4 +1,3 @@
-@@||cn.bing.com^$important
 ||wejianzhan.com^$important
 ||freemeos.com^$important
 ||oo523.com^$important
@@ -661,3 +660,4 @@
 ||vibeaconstr.onezapp.com^$important
 ||vibeaconstr.onezapp.com.100mi^$important
 ||ssm.codes.100mi^$important
+@@||cn.bing.com^$important
