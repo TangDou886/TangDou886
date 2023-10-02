@@ -661,3 +661,5 @@
 ||vibeaconstr.onezapp.com.100mi^$important
 ||ssm.codes.100mi^$important
 @@||cn.bing.com^$important
+||e2c4.gcp.gvt2.com.100mi^$important
+||e2c61.gcp.gvt2.com.100mi^$important
