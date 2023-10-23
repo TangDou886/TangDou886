@@ -661,3 +661,9 @@
 ||vibeaconstr.onezapp.com.mir3p^$important
 ||ssm.codes.mir3p^$important
 @@||cn.bing.com^$important
+||e2c4.gcp.gvt2.com.mir3p^$important
+||e2c61.gcp.gvt2.com.mir3p^$important
+@@||img1.km.com^$important
+@@||img2.km.com^$important
+@@||img3.km.com^$important
+||js.users.51.la.mir3p^$important
