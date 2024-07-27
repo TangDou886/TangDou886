@@ -667,3 +667,6 @@
 @@||img2.km.com^$important
 @@||img3.km.com^$important
 ||js.users.51.la.mir3p^$important
+||my.presonus.com^$important
+||www.presonus.com^$important
+||api.presonus.com^$important
