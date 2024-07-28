@@ -670,3 +670,4 @@
 ||my.presonus.com^$important
 ||www.presonus.com^$important
 ||api.presonus.com^$important
+||tracking.miui.com.100mi^$important
