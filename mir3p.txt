@@ -786,3 +786,11 @@
 ||i.isnssdk.com.mir3p^$important
 ||mon.isnssdk.com.mir3p^$important
 ||mon.tiktokv.com.mir3p^$important
+||device-metrics-us-2.amazon.com.mir3p^$important
+||badjs.weixinbridge.com.mir3p^$important
+||mon.zijieapi.com.mir3p^$important
+||mon.snssdk.com.mir3p^$important
+||report.meituan.net^$important
+||report.meituan.net.mir3p^$important
+||analytics.meituan.net.mir3p^$important
+||c-ztuni.tec73.com.mir3p^$important
