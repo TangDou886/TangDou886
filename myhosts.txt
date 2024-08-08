@@ -751,11 +751,9 @@
 ||vcs.zijieapi.com^$important
 ||ipv4.gdt.qq.com.100mi^$important
 ||sdktmp.hubcloud.com.cn.100mi^$important
-||pp.myapp.com^$important
 ||mssdk.volces.com^$important
 ||utoken.umeng.com^$important
 ||lf-cdn-tos.bytescm.com^$important
-||pp.myapp.com.100mi^$important
 ||js-rwk.pull.etoote.com^$important
 ||ali-rwk.pull.etoote.com^$important
 ||open.kuaishouzt.com.100mi^$important
