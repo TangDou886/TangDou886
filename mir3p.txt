@@ -51,7 +51,6 @@
 ||srv1.xbext.com^$important
 ||srv1.xbext.com.mir3p^$important
 ||als.baidu.com.mir3p^$important
-||sp0.baidu.com.mir3p^$important
 ||ss0.baidu.com^$important
 ||sb.scorecardresearch.com.mir3p^$important
 ||c.msn.com.mir3p^$important
@@ -562,8 +561,6 @@
 ||hw-cdn2.contentabc.com.mir3p^$important
 ||cdn11.contentabc.com.mir3p^$important
 ||acs.m.taobao.com.mir3p^$important
-||sp1.baidu.com.mir3p^$important
-||sp2.baidu.com.mir3p^$important
 ||hw-cdn2.trafficjunky.net.mir3p^$important
 ||cdn.mxpnl.com.mir3p^$important
 ||vz-cdn2.trafficjunky.net.mir3p^$important
