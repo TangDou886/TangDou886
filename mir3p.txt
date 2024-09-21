@@ -819,3 +819,10 @@
 ||ss1.bdstatic.com^$important
 ||dss0.bdstatic.com^$important
 ||dss1.bdstatic.com^$important
+||mbd.baidu.com.mir3p^$important
+||sp1.baidu.com.mir3p^$important
+||lingjing-online.cdn.bcebos.com.mir3p^$important
+||dss1.bdstatic.com.mir3p^$important
+||pss.bdstatic.com.mir3p^$important
+||ms.bdstatic.com.mir3p^$important
+||hectorstatic.baidu.com.mir3p^$important
