@@ -805,6 +805,7 @@
 ||mbd.baidu.com^$important
 ||pss.bdstatic.com^$important
 ||psstatic.cdn.bcebos.com^$important
+||psstatic.cdn.bcebos.com.mir3p^$important
 ||dss2.bdstatic.com^$important
 ||pc-index-static.cdn.bcebos.com^$important
 ||pc-index-static.cdn.bcebos.com.mir3p^$important
