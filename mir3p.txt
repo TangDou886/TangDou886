@@ -1,3 +1,6 @@
+||anymind360.com.mir3p^$important
+||api.popin.cc.mir3p^$important
+||content.ad2iction.com.mir3p^$important
 ||pixel.wp.com.mir3p^$important
 ||wejianzhan.com^$important
 ||freemeos.com^$important
