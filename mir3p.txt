@@ -809,7 +809,6 @@
 ||dss2.bdstatic.com^$important
 ||pc-index-static.cdn.bcebos.com^$important
 ||pc-index-static.cdn.bcebos.com.mir3p^$important
-||ms.bdstatic.com^$important
 ||lingjing-online.cdn.bcebos.com^$important
 ||ug.baidu.com^$important
 ||t7.baidu.com^$important
@@ -825,7 +824,6 @@
 ||sp1.baidu.com.mir3p^$important
 ||lingjing-online.cdn.bcebos.com.mir3p^$important
 ||dss1.bdstatic.com.mir3p^$important
-||ms.bdstatic.com.mir3p^$important
 ||hectorstatic.baidu.com.mir3p^$important
 ||t7.baidu.com.mir3p^$important
 ||v3.gdt.qq.com.mir3p^$important
