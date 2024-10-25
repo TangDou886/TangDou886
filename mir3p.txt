@@ -704,14 +704,12 @@
 ||aspect-upush.umeng.com.mir3p^$important
 ||gia.jd.com.mir3p^$important
 ||wl.jd.com.mir3p^$important
-||sdk.beizi.biz^$important
 ||mi.gdt.qq.com.mir3p^$important
 ||open.e.kuaishou.cn.mir3p^$important
 ||api-htp.beizi.biz^$important
 ||api-access.pangolin-sdk-toutiao1.com.mir3p^$important
 ||api-access.pangolin-sdk-toutiao1.com^$important
 ||tnc3-bjlgy.zijieapi.com^$important
-||sdk.beizi.biz.mir3p^$important
 ||abtest-ch.snssdk.com.mir3p^$important
 ||log.snssdk.com.mir3p^$important
 ||tnc0-aliec2.zijieapi.com^$important
