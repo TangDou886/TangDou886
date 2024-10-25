@@ -135,7 +135,6 @@
 ||msg.umengcloud.com.mir3p^$important
 ||impaas-for-client.cn-shanghai.log.aliyuncs.com.mir3p^$important
 ||conf.xdrig.com.mir3p^$important
-||nsclick.baidu.com.mir3p^$important
 ||sdk.s.360.cn.mir3p^$important
 ||pimlog.baidu.com.mir3p^$important
 ||cmta.yangkeduo.com.mir3p^$important
@@ -805,7 +804,6 @@
 ||game.str.mdt.qq.com.mir3p^$important
 ||hectorstatic.baidu.com^$important
 ||mbd.baidu.com^$important
-||pss.bdstatic.com^$important
 ||psstatic.cdn.bcebos.com^$important
 ||psstatic.cdn.bcebos.com.mir3p^$important
 ||dss2.bdstatic.com^$important
@@ -827,6 +825,16 @@
 ||sp1.baidu.com.mir3p^$important
 ||lingjing-online.cdn.bcebos.com.mir3p^$important
 ||dss1.bdstatic.com.mir3p^$important
-||pss.bdstatic.com.mir3p^$important
 ||ms.bdstatic.com.mir3p^$important
 ||hectorstatic.baidu.com.mir3p^$important
+||t7.baidu.com.mir3p^$important
+||v3.gdt.qq.com.mir3p^$important
+||v2mi.gdt.qq.com.mir3p^$important
+||sp0.baidu.com.mir3p^$important
+||sp2.baidu.com.mir3p^$important
+||dss0.bdstatic.com.mir3p^$important
+||ss1.bdstatic.com.mir3p^$important
+||ss2.baidu.com.mir3p^$important
+||ss1.baidu.com.mir3p^$important
+||ss3.baidu.com.mir3p^$important
+||ss0.baidu.com.mir3p^$important
