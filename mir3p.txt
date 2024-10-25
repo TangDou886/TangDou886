@@ -717,7 +717,6 @@
 ||tnc3-bjlgy.zijieapi.com.mir3p^$important
 ||dspsdk.pinduoduo.com.mir3p^$important
 ||lf-cdn-tos.bytescm.com.mir3p^$important
-||api.coolapk.com.mir3p^$important
 ||api-htp.beizi.biz.mir3p^$important
 ||tx-kmpaudio.pull.yximgs.com.mir3p^$important
 ||ks-pclivemate.pull.yximgs.com.mir3p^$important
