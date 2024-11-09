@@ -1,3 +1,7 @@
+||ido.getui.net^$important
+||ido.getui.net.mir3p^$important
+||oneid.getui.net.mir3p^$important
+||oneid.getui.net^$important
 ||toblog.volceapplog.com.mir3p^$important
 ||tobapplog.volceapplog.com.mir3p^$important
 ||imp.gentags.net.mir3p^$important
