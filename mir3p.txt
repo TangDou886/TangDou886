@@ -878,3 +878,4 @@
 ||ss1.baidu.com.mir3p^$important
 ||ss3.baidu.com.mir3p^$important
 ||ss0.baidu.com.mir3p^$important
+||api.us-west-2.aiv-delivery.net^$important
