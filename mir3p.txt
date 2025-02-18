@@ -474,7 +474,7 @@
 ||count6.pconline.com.cn.mir3p^$important
 ||count5.pconline.com.cn.mir3p^$important
 ||dlswbr.baidu.com.mir3p^$important
-||staticsns.cdn.bcebos.com.mir3p^$important
+@@||staticsns.cdn.bcebos.com^$important
 ||miao.baidu.com.mir3p^$important
 ||icws.jb51.net.mir3p^$important
 ||cdn.bootcdn.net.mir3p^$important
