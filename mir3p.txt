@@ -860,10 +860,8 @@
 ||ss2.baidu.com^$important
 ||ss3.baidu.com^$important
 ||ss1.bdstatic.com^$important
-||dss1.bdstatic.com^$important
 ||sp1.baidu.com.mir3p^$important
 ||lingjing-online.cdn.bcebos.com.mir3p^$important
-||dss1.bdstatic.com.mir3p^$important
 ||t7.baidu.com.mir3p^$important
 ||v3.gdt.qq.com.mir3p^$important
 ||v2mi.gdt.qq.com.mir3p^$important
