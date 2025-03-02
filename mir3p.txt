@@ -851,7 +851,6 @@
 ||pc-index-static.cdn.bcebos.com^$important
 ||pc-index-static.cdn.bcebos.com.mir3p^$important
 ||ug.baidu.com^$important
-||t7.baidu.com^$important
 ||ext.baidu.com^$important
 ||ss0.baidu.com^$important
 ||ss1.baidu.com^$important
@@ -859,7 +858,6 @@
 ||ss3.baidu.com^$important
 ||ss1.bdstatic.com^$important
 ||sp1.baidu.com.mir3p^$important
-||t7.baidu.com.mir3p^$important
 ||v3.gdt.qq.com.mir3p^$important
 ||v2mi.gdt.qq.com.mir3p^$important
 ||sp0.baidu.com.mir3p^$important
