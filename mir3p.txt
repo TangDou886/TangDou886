@@ -1,3 +1,4 @@
+@@||vercel-static.bj.bcebos.com^$important
 @@||aisearch.bj.bcebos.com^$important
 ||h-adashx.ut.ele.me.mir3p^$important
 ||sjarvis.taobao.com.mir3p^$important
