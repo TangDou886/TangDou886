@@ -1,3 +1,4 @@
+||app.newapp.vip^$important
 ||app.newapp.vip.mir3p^$important
 ||www.googlezip.net^$important
 ||www.googlezip.net.mir3p^$important
