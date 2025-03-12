@@ -1,3 +1,4 @@
+||sdk.e.qq.com^$important
 @@||staticsns.cdn.bcebos.com^$important
 ||https://pai.googlezip.net^$important
 ||https://pai.googlezip.net.mir3p^$important
