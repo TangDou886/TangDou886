@@ -52,7 +52,6 @@
 ||ug.baidu.com.mir3p^$important
 ||b.bdstatic.com^$important
 ||b.bdstatic.com.mir3p^$important
-@@||sdk.e.qq.com^$important
 ||js.eroticmv.com.mir3p^$important
 ||anymind360.com.mir3p^$important
 ||api.popin.cc.mir3p^$important
