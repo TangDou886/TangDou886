@@ -1,3 +1,4 @@
+||sdk.beizi.biz^$important
 ||sdk.e.qq.com^$important
 @@||staticsns.cdn.bcebos.com^$important
 ||https://pai.googlezip.net^$important
